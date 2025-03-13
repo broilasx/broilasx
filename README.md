@@ -21,9 +21,6 @@ I am a student at the University of Coimbra and I have been studying programming
 
 <p align="left"> <a href="https://www.github.com/broilasx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/brunoalmeida100/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broilasx&show_icons=true&locale=en&layout=compact" alt="broilasx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=broilasx&show_icons=true&locale=en" alt="broilasx" /></p>
