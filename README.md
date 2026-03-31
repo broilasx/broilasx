@@ -8,8 +8,8 @@ I am a student at the University of Coimbra and I have been studying programming
 
 * 🌍  I'm based in Coimbra, Portugal
 * 🖥️  See my portfolio at [MyPortfolio](http://broilasx.github.io/Portfolio/)
-* ✉️  You can contact me at [brunoalmeida7426@gmail.com](mailto:brunoalmeida7426@gmail.com)
-* 🧠  I'm learning Blockchain and ML at the moment
+* ✉️  You can contact me at [brunoalmeidadev@outlook.pt](mailto:brunoalmeidadev@outlook.pt)
+* 🧠  I'm learning AI and ML at the moment
 
 ### Skills
 
