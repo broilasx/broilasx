@@ -7,7 +7,7 @@ Software Engineer
 I am a student at the University of Coimbra and I have been studying programming since 2020, I started with python and then moved on to new technologies, although I have knowledge in Front-End, my main focus is Back-End.
 
 * 🌍  I'm based in Coimbra, Portugal
-* 🖥️  See my portfolio at [MyPortfolio](http://broilasx.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](broilas.dev/)
 * ✉️  You can contact me at [broilasdev@gmail.com](mailto:broilasdev@gmail.com)
 * 🧠  I'm learning AI and ML at the moment
 
